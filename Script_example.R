@@ -13,3 +13,5 @@ print(Celsius)
 
 #plot
 plot(Celsius,Fahrenheit$Temperatures.F.)
+
+plot(Fahrenheit$Temperatures.F.Celsius)
